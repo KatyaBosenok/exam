@@ -1,0 +1,45 @@
+.data{
+    border: 5px solid #610B5E;
+	float:right;
+	width: 90%;
+    margin-right: 120px;
+	background: #E2A9F3;
+   
+}
+p {
+	font-style:italic;
+	margin-right: 40px;
+	color:#5F04B4;
+}
+h1{
+	color: #4C0B5F;
+	text-align:center;
+	font-family: arial, sans-serif;
+	font-style:italic;
+
+}
+h2{
+	color:  #B40431;
+	margin: 40px 10px 20px 40px;
+	font-family: arial, sans-serif;
+	font-style:italic;
+}
+h3{
+	color:  #8A0808;
+	margin: 40px 10px 20px 40px;
+	font-family: arial, sans-serif;
+	font-style:italic;
+}
+.img{
+	wight:100;
+	float:left;
+	margin: 10px 20px;	
+}
+.vendor{
+    border: 5px solid #F2E0F7;
+	float:right;
+	width: 90%;
+    margin-right: 120px;
+	background: #FBEFF5;
+	font-size:200%;
+}

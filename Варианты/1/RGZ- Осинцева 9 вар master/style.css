@@ -1,0 +1,19 @@
+.text{
+	float:left;
+	width: 80%;
+    margin-left: 120px;
+	font-family: 'Times New Roman', sans-serif;
+	background: url(http://boombob.ru/img/picture/Apr/14/7529d9a9e81e8d8915463955ba89df75/2.jpg) repeat-y #fc0;
+	border: 2px solid #4682B4;
+}
+
+}
+.text1 {
+	font-family: 'Times New Roman', sans-serif;
+	text-align: center;
+}
+.img {
+	wight:100;
+	float:right;
+	margin: 10px 20px;
+}	  

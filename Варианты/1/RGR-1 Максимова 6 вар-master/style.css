@@ -1,0 +1,33 @@
+.data{
+       border: 3px solid #D2B48C;
+	   float:left;
+	   width: 80%;
+       margin-left: 120px;
+	   background: #FFFFF0;
+   
+}
+p {
+	font-style:italic;
+	margin-left: 40px;
+
+}
+h1{
+	color: #A0522D;
+	text-align:center;
+
+}
+h2{
+	text-decoration:underline;
+	color:  #000000;
+		margin: 40px 10px 20px 40px;
+}
+.img{
+	  wight:100;
+	  float:right;
+	  margin: 10px 20px;	
+	
+}
+
+.numberOffers{
+	margin-left: 80px;
+}

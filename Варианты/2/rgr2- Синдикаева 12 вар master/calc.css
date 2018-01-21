@@ -1,0 +1,28 @@
+﻿h1{
+	font-family: 'Gabriola', sans-serif;
+	text-align: center;
+	color: #3B0B17;
+		
+}
+.calcul{
+	text-align: center;
+	position: absolute;
+	top: 30%;
+	left: 35%;
+	margin: -100px 0 0 -200px; 
+	background: #F6CEEC;
+	width: 800px;
+	height: 500px;
+}
+.error{
+	color:red;
+}
+.data{
+    border: 5px solid #F6CEEC;
+	float:right;
+	width: 90%;
+    margin-right: 90px;
+	background: #F6CEEC;
+	height: 70px;
+   
+}

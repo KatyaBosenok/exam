@@ -1,0 +1,20 @@
+h1{
+	font-family: 'Times New Roman', sans-serif;
+	text-align: center;
+	color:  #A52A2A;
+		
+}
+.calcul{
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -100px 0 0 -200px; 
+	
+}
+.error{
+	color:red;
+}
+.invalid{
+border-color: red;
+}

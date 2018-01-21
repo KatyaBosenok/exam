@@ -1,0 +1,36 @@
+body{
+		background: #F8EDFD;
+}
+.data{
+       border: 5px solid #F8EDFD;
+	   float:left;
+	   width: 90%;
+       margin-left: 70px;
+	   background: #EFD6FA;
+   
+}
+p {
+	margin-left: 40px;
+	margin-bottom: 20px;
+
+}
+h1{
+	color: #5C127D;
+	text-align:center;
+	font-style:italic;
+
+}
+h2{
+	color:  #5C127D;
+		margin: 20px 10px 20px 40px;
+}
+.img{
+	  wight:100;
+	  float:right;
+	  
+	  margin: 120px 50px;	
+	
+}
+a {
+	font-style:italic;
+}

@@ -1,0 +1,25 @@
+.data{
+	   float:left;
+	   width: 70%;
+       margin-left: 290px;
+	   background: #F0FFF0;
+   
+}
+p {
+	font-style:normal;
+	margin-left: 50px;
+
+}
+
+
+h2{
+	text-decoration:underline;
+	color:  #000080;
+		margin: 50px 20px 30px 50px;
+}
+.img{
+	  wight:150;
+	  float:right;
+	  margin: 20px 50px;	
+	
+}
